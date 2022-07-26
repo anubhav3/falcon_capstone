@@ -6,6 +6,17 @@ FALCON 9 rocket launches by SpaceX cost 62 Million USD whereas other providers c
 
 ## Methodology
 
-
+* Data collection methodology: 
+  * Used SpaceX API and making a get request
+  * Used Web Scraping on HTML table of Falcon 9 from the Wikipedia
+* Performed data wrangling
+  * Executed SQL queries on table loaded in a Db2 database
+* Performed exploratory data analysis (EDA) using visualization and SQL
+* Performed interactive visual analytics using Folium and Plotly Dash
+* Performed predictive analysis using classification models: 
+  * SVM, Classification Trees, Logistic Regression and KNN
 
 ## Results
+* The launch success increased from 2013 to 2020
+* All the four models Logistic regression, SVM, decision tree and KNN performed equally well in predicting launch of Falcon 9 rocket’s first stage with an accuracy of 0.83.
+* Any of the above four models can be used for predicting launch success rate
