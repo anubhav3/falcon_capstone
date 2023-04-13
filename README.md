@@ -18,5 +18,5 @@ FALCON 9 rocket launches by SpaceX cost 62 Million USD whereas other providers c
 
 ## Results
 * The launch success increased from 2013 to 2020.
-* Decision tree model had the highest accuracy in predicting launch of Falcon 9 rocket’s first stage with an accuracy of 0.95 while logistic regression, KNN and SVM had accuracies of 0.833.
+* Decision tree model had the highest accuracy in predicting launch of Falcon 9 rocket’s first stage with an accuracy of 0.95 while logistic regression, KNN and SVM models had accuracies of 0.833.
 * Any of the above four models can be used for predicting launch success rate.
